@@ -1,0 +1,7 @@
+1st Step : Go for the workstation In my case -> cd /c/Users/rashni/MyWS/WSpace
+
+2nd Step : create a folder In my case -> mkdir config
+
+3rd step : use command In my case -> git config --global user.name "rashni" In my case -> git config --global user.email rashni@abc.com
+
+4th step : To check all configuration(optional) In my case -> git config --list
